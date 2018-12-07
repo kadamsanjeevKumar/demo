@@ -1,0 +1,21 @@
+<?php return array (
+//  'BLOCKTRAIL_API_KEY' => 'f8c5130d818c62631598318d1fa79ebb5e9ac2c4',
+//    'BLOCKTRAIL_API_SECRET' => '8868eb80380c33406ab99544368267e4e2098b6b',
+//    'BLOCKTRAIL_API_SECRET1' => '953172de2202df16e253087150ffb56353156207',
+//    'BLOCKTRAIL_API_KEY1' => 'a58b7973e69313151481e65bec5ef38d55b3fd4f',
+//    'WALLET_USERNAME2' => 'abhinav',
+//    'WALLET_USERNAME1' => 'niraj139',
+//    'WALLET_PASSWORD1' => 'KUsa@9065',
+//    'WALLET_PASSWORD' => 'punabakaABHINAV1234!',
+//
+//
+//
+//    'WALLET_USERNAME' => 'payaccount',
+
+
+    'BLOCKTRAIL_API_KEY' => 'ac4710cc6bab9a3013a84360ee8519dca99e48fb',
+    'BLOCKTRAIL_API_SECRET' => '85cd54fc95b5ab676c1277dacdb37cfc154883fc',
+    'WALLET_USERNAME' => 'testingWallet',
+    'WALLET_PASSWORD' => 'Sanjeev@123',
+
+);

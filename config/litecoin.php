@@ -1,0 +1,6 @@
+<?php return array (
+  'BLOCK_IO_LITECOIN_API_KEY1' => '117f-32db-2915-d779',
+  'BLOCK_IO_LITECOIN_API_KEY' => '1f02-8331-dfff-ca4b',
+  'BLOCK_IO_LITECOIN_API_PIN' => 'niraj139',
+  'BLOCK_IO_LITECOIN_API_PIN1' => '12345678',
+);
